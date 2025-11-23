@@ -1,0 +1,236 @@
+ID,Termo,Tipo_Relacao,Termo_Relacionado,Nota_Escopo,Categoria,Status
+001,Desinformação,TG,,Informação falsa criada e compartilhada deliberadamente para causar dano,Conceito Principal,Preferido
+002,Desinformação,TE,Desinformação política,,Conceito Principal,Preferido
+003,Desinformação,TE,Desinformação científica,,Conceito Principal,Preferido
+004,Desinformação,TE,Desinformação econômica,,Conceito Principal,Preferido
+005,Desinformação,TE,Desinformação social,,Conceito Principal,Preferido
+006,Desinformação,TE,Desinformação institucional,,Conceito Principal,Preferido
+007,Desinformação,TR,Misinformação,,Conceito Principal,Preferido
+008,Desinformação,TR,Mal-informação,,Conceito Principal,Preferido
+009,Algoritmo de recomendação,TG,Amplificação algorítmica,Sistema automatizado que seleciona e ordena conteúdo baseado em dados comportamentais,Tecnologia,Preferido
+010,Algoritmo de recomendação,TE,Filtro bolha,,Tecnologia,Preferido
+011,Algoritmo de recomendação,TE,Viés algorítmico,,Tecnologia,Preferido
+012,Algoritmo de recomendação,TR,Engajamento,,Tecnologia,Preferido
+013,Amplificação algorítmica,TG,Manipulação informacional,Processo pelo qual algoritmos aumentam o alcance de determinado conteúdo,Manipulação,Preferido
+014,Amplificação algorítmica,TE,Algoritmo de recomendação,,Manipulação,Preferido
+015,Amplificação algorítmica,TR,Viralização,,Manipulação,Preferido
+016,Amplificação algorítmica,TR,Câmara de eco,,Manipulação,Preferido
+017,Astroturfing,USE,Mobilização artificial,Criação de movimentos falsos que aparentam ser espontâneos,Manipulação,Não-preferido
+018,Bot social,UP,Robô social,Conta automatizada que simula comportamento humano em redes sociais,Atores,Preferido
+019,Bot social,TG,Atores artificiais,,Atores,Preferido
+020,Bot social,TE,Bot político,,Atores,Preferido
+021,Bot social,TE,Bot amplificador,,Atores,Preferido
+022,Bot social,TR,Astroturfing,,Atores,Preferido
+023,Bot social,TR,Rede de bots,,Atores,Preferido
+024,Brigading,TG,Manipulação coordenada,Ação coordenada de grupo para atacar ou promover conteúdo,Manipulação,Preferido
+025,Brigading,TR,Assédio digital,,Manipulação,Preferido
+026,Câmara de eco,UP,Echo chamber,Ambiente informacional onde pessoas são expostas apenas a opiniões similares,Impacto,Preferido
+027,Câmara de eco,TG,Polarização informacional,,Impacto,Preferido
+028,Câmara de eco,TR,Filtro bolha,,Impacto,Preferido
+029,Câmara de eco,TR,Viés de confirmação,,Impacto,Preferido
+030,Campanha de desinformação,TG,Desinformação,Esforço coordenado para disseminar informações falsas com objetivo específico,Operações,Preferido
+031,Campanha de desinformação,TE,Campanha eleitoral fraudulenta,,Operações,Preferido
+032,Campanha de desinformação,TE,Campanha antivacina,,Operações,Preferido
+033,Campanha de desinformação,TR,Operação de influência,,Operações,Preferido
+034,Clickbait,UP,Isca de cliques,Conteúdo criado para atrair cliques através de títulos enganosos,Manipulação,Preferido
+035,Clickbait,TG,Manipulação de engajamento,,Manipulação,Preferido
+036,Clickbait,TR,Título sensacionalista,,Manipulação,Preferido
+037,Conteúdo fabricado,TG,Tipologia de desinformação,Informação completamente falsa criada para enganar,Tipologia,Preferido
+038,Conteúdo fabricado,TR,Fake news,,Tipologia,Preferido
+039,Conteúdo fabricado,TR,Deepfake,,Tipologia,Preferido
+040,Conteúdo manipulado,TG,Tipologia de desinformação,Informação genuína alterada para enganar,Tipologia,Preferido
+041,Conteúdo manipulado,TE,Imagem manipulada,,Tipologia,Preferido
+042,Conteúdo manipulado,TE,Vídeo editado,,Tipologia,Preferido
+043,Conteúdo manipulado,TE,Áudio alterado,,Tipologia,Preferido
+044,Deepfake,TG,Mídia sintética,Mídia criada ou alterada usando IA para falsificar aparência ou voz,Tecnologia,Preferido
+045,Deepfake,TE,Deepfake de áudio,,Tecnologia,Preferido
+046,Deepfake,TE,Deepfake de vídeo,,Tecnologia,Preferido
+047,Deepfake,TR,Inteligência artificial,,Tecnologia,Preferido
+048,Deepfake,TR,Conteúdo fabricado,,Tecnologia,Preferido
+049,Descontextualização,TG,Técnicas de manipulação,Uso de informação verdadeira fora de seu contexto original,Manipulação,Preferido
+050,Descontextualização,TR,Conteúdo enganoso,,Manipulação,Preferido
+051,Desinformação política,TG,Desinformação,Informação falsa relacionada a processos políticos e democráticos,Desinformação,Preferido
+052,Desinformação política,TE,Desinformação eleitoral,,Desinformação,Preferido
+053,Desinformação política,TE,Desinformação sobre políticas públicas,,Desinformação,Preferido
+054,Desinformação política,TR,Propaganda,,Desinformação,Preferido
+055,Desinformação política,TR,Guerra híbrida,,Desinformação,Preferido
+056,Discurso de ódio,TG,Conteúdo nocivo,Comunicação que incita violência ou discriminação contra grupos,Conteúdo Nocivo,Preferido
+057,Discurso de ódio,TR,Radicalização online,,Conteúdo Nocivo,Preferido
+058,Discurso de ódio,TR,Extremismo,,Conteúdo Nocivo,Preferido
+059,Economia da atenção,TG,Modelo de negócios digital,Sistema econômico baseado na captura e monetização da atenção humana,Economia,Preferido
+060,Economia da atenção,TR,Clickbait,,Economia,Preferido
+061,Economia da atenção,TR,Engajamento,,Economia,Preferido
+062,Extremismo,TG,Radicalização,,Radicalização,Preferido
+063,Extremismo,TE,Extremismo político,,Radicalização,Preferido
+064,Extremismo,TE,Extremismo religioso,,Radicalização,Preferido
+065,Extremismo,TR,Discurso de ódio,,Radicalização,Preferido
+066,Extremismo,TR,Terrorismo digital,,Radicalização,Preferido
+067,Fact-checking,USE,Verificação de fatos,,Combate,Não-preferido
+068,Fake news,UP,Notícia falsa,Informação fabricada que imita formato jornalístico,Desinformação,Preferido
+069,Fake news,TG,Desinformação,,Desinformação,Preferido
+070,Fake news,TR,Jornalismo,,Desinformação,Preferido
+071,Fake news,TR,Conteúdo fabricado,,Desinformação,Preferido
+072,Filtro bolha,UP,Filter bubble,Isolamento informacional causado por personalização algorítmica,Impacto,Preferido
+073,Filtro bolha,TG,Personalização algorítmica,,Impacto,Preferido
+074,Filtro bolha,TR,Câmara de eco,,Impacto,Preferido
+075,Filtro bolha,TR,Algoritmo de recomendação,,Impacto,Preferido
+076,Gaslighting digital,TG,Manipulação psicológica,Técnica de manipulação que faz vítimas questionarem sua percepção da realidade,Manipulação,Preferido
+077,Gaslighting digital,TR,Negacionismo,,Manipulação,Preferido
+078,Guerra híbrida,TG,Guerra informacional,Estratégia militar que combina guerra convencional com guerra informacional,Guerra Informacional,Preferido
+079,Guerra híbrida,TR,Desinformação política,,Guerra Informacional,Preferido
+080,Guerra híbrida,TR,Ciberguerra,,Guerra Informacional,Preferido
+081,Guerra informacional,TG,Operações de influência,Uso estratégico da informação como arma,Guerra Informacional,Preferido
+082,Guerra informacional,TE,Guerra híbrida,,Guerra Informacional,Preferido
+083,Guerra informacional,TE,Guerra psicológica,,Guerra Informacional,Preferido
+084,Guerra informacional,TR,Propaganda,,Guerra Informacional,Preferido
+085,Infodemia,TG,Sobrecarga informacional,Excesso de informações incluindo falsas durante crises sanitárias,Impacto,Preferido
+086,Infodemia,TR,Desinformação científica,,Impacto,Preferido
+087,Infodemia,TR,Pandemia,,Impacto,Preferido
+088,Inteligência artificial,TG,Tecnologia,Tecnologia usada tanto para criar quanto combater desinformação,Tecnologia,Preferido
+089,Inteligência artificial,TE,Machine learning,,Tecnologia,Preferido
+090,Inteligência artificial,TE,Processamento de linguagem natural,,Tecnologia,Preferido
+091,Inteligência artificial,TR,Deepfake,,Tecnologia,Preferido
+092,Inteligência artificial,TR,Bot social,,Tecnologia,Preferido
+093,Literacia midiática,UP,Literacia digital,Capacidade de acessar analisar e avaliar criticamente informações,Combate,Preferido
+094,Literacia midiática,UP,Educação midiática,,Combate,Preferido
+095,Literacia midiática,TG,Combate à desinformação,,Combate,Preferido
+096,Literacia midiática,TR,Pensamento crítico,,Combate,Preferido
+097,Literacia midiática,TR,Verificação de fatos,,Combate,Preferido
+098,Mal-informação,TG,Transtorno informacional,Informação verdadeira compartilhada para causar dano,Desinformação,Preferido
+099,Mal-informação,TR,Desinformação,,Desinformação,Preferido
+100,Mal-informação,TR,Vazamento,,Desinformação,Preferido
+101,Manipulação coordenada,TG,Operações de influência,Ação organizada para manipular percepção pública,Manipulação,Preferido
+102,Manipulação coordenada,TE,Brigading,,Manipulação,Preferido
+103,Manipulação coordenada,TE,Mobilização artificial,,Manipulação,Preferido
+104,Manipulação coordenada,TR,Rede de bots,,Manipulação,Preferido
+105,Mídia sintética,TG,Conteúdo manipulado,Conteúdo criado ou substancialmente modificado por IA,Tecnologia,Preferido
+106,Mídia sintética,TE,Deepfake,,Tecnologia,Preferido
+107,Mídia sintética,TE,Áudio sintético,,Tecnologia,Preferido
+108,Mídia sintética,TR,Inteligência artificial,,Tecnologia,Preferido
+109,Misinformação,TG,Transtorno informacional,Informação falsa compartilhada sem intenção de causar dano,Desinformação,Preferido
+110,Misinformação,TR,Desinformação,,Desinformação,Preferido
+111,Mobilização artificial,UP,Astroturfing,Simulação de movimento grassroots,Manipulação,Preferido
+112,Mobilização artificial,TG,Manipulação coordenada,,Manipulação,Preferido
+113,Mobilização artificial,TR,Bot social,,Manipulação,Preferido
+114,Narrativa,TG,Estratégia comunicacional,Estrutura de sentido que organiza informações em história coerente,Comunicação,Preferido
+115,Narrativa,TE,Narrativa conspiratória,,Comunicação,Preferido
+116,Narrativa,TE,Contra-narrativa,,Comunicação,Preferido
+117,Narrativa,TR,Frame,,Comunicação,Preferido
+118,Negacionismo,TG,Desinformação científica,Rejeição de consenso científico ou fatos históricos estabelecidos,Desinformação,Preferido
+119,Negacionismo,TE,Negacionismo climático,,Desinformação,Preferido
+120,Negacionismo,TE,Negacionismo histórico,,Desinformação,Preferido
+121,Negacionismo,TR,Pseudociência,,Desinformação,Preferido
+122,Operação de influência,TG,Manipulação informacional,Ação coordenada para afetar decisões percepções ou comportamentos,Operações,Preferido
+123,Operação de influência,TE,Campanha de desinformação,,Operações,Preferido
+124,Operação de influência,TE,Guerra informacional,,Operações,Preferido
+125,Operação de influência,TR,Propaganda,,Operações,Preferido
+126,Polarização,TG,Impacto social,Divisão extrema de opiniões em grupos opostos,Impacto,Preferido
+127,Polarização,TE,Polarização política,,Impacto,Preferido
+128,Polarização,TE,Polarização afetiva,,Impacto,Preferido
+129,Polarização,TR,Câmara de eco,,Impacto,Preferido
+130,Polarização,TR,Radicalização,,Impacto,Preferido
+131,Pós-verdade,TG,Contexto informacional,Circunstâncias onde fatos objetivos são menos influentes que apelos emocionais,Contexto,Preferido
+132,Pós-verdade,TR,Relativismo epistêmico,,Contexto,Preferido
+133,Pós-verdade,TR,Desinformação,,Contexto,Preferido
+134,Prebunking,TG,Inoculação psicológica,Técnica preventiva de combate à desinformação,Combate,Preferido
+135,Prebunking,TR,Verificação de fatos,,Combate,Preferido
+136,Propaganda,TG,Comunicação estratégica,Comunicação tendenciosa para promover causa ou ponto de vista,Comunicação,Preferido
+137,Propaganda,TE,Propaganda política,,Comunicação,Preferido
+138,Propaganda,TE,Propaganda de guerra,,Comunicação,Preferido
+139,Propaganda,TR,Desinformação política,,Comunicação,Preferido
+140,Pseudociência,TG,Desinformação científica,Afirmações apresentadas como científicas sem base metodológica,Desinformação,Preferido
+141,Pseudociência,TR,Negacionismo,,Desinformação,Preferido
+142,Pseudociência,TR,Teoria conspiratória,,Desinformação,Preferido
+143,QAnon,TG,Movimento conspiratório,Teoria conspiratória de extrema-direita originada em fóruns online,Teoria Conspiratória,Preferido
+144,QAnon,TR,Teoria conspiratória,,Teoria Conspiratória,Preferido
+145,QAnon,TR,Extremismo,,Teoria Conspiratória,Preferido
+146,Radicalização online,TG,Radicalização,Processo de adoção de visões extremas através de conteúdo digital,Radicalização,Preferido
+147,Radicalização online,TR,Extremismo,,Radicalização,Preferido
+148,Radicalização online,TR,Algoritmo de recomendação,,Radicalização,Preferido
+149,Rede de bots,UP,Botnet social,Conjunto coordenado de contas automatizadas,Infraestrutura,Preferido
+150,Rede de bots,TG,Infraestrutura de desinformação,,Infraestrutura,Preferido
+151,Rede de bots,TR,Bot social,,Infraestrutura,Preferido
+152,Rede de bots,TR,Manipulação coordenada,,Infraestrutura,Preferido
+153,Regulação de plataformas,TG,Governança digital,Normas e leis para regular operação de plataformas digitais,Governança,Preferido
+154,Regulação de plataformas,TR,Moderação de conteúdo,,Governança,Preferido
+155,Regulação de plataformas,TR,Transparência algorítmica,,Governança,Preferido
+156,Sátira,TG,Conteúdo humorístico,Conteúdo que usa humor para criticar pode ser mal interpretado,Tipologia,Preferido
+157,Sátira,TR,Paródia,,Tipologia,Preferido
+158,Sobrecarga informacional,UP,Information overload,Excesso de informação que dificulta processamento e tomada de decisão,Impacto,Preferido
+159,Sobrecarga informacional,UP,Flood de informação,,Impacto,Preferido
+160,Sobrecarga informacional,TG,Poluição informacional,,Impacto,Preferido
+161,Sobrecarga informacional,TE,Infodemia,,Impacto,Preferido
+162,Sobrecarga informacional,TR,Fadiga informacional,,Impacto,Preferido
+163,Sockpuppet,TG,Conta falsa,Conta falsa operada por humano para enganar,Atores,Preferido
+164,Sockpuppet,TR,Bot social,,Atores,Preferido
+165,Sockpuppet,TR,Trolling,,Atores,Preferido
+166,Teoria conspiratória,UP,Teoria da conspiração,Explicação de eventos como resultado de conspiração secreta,Teoria Conspiratória,Preferido
+167,Teoria conspiratória,UP,Conspiração,,Teoria Conspiratória,Preferido
+168,Teoria conspiratória,TG,Narrativa alternativa,,Teoria Conspiratória,Preferido
+169,Teoria conspiratória,TE,QAnon,,Teoria Conspiratória,Preferido
+170,Teoria conspiratória,TE,Conspiração médica,,Teoria Conspiratória,Preferido
+171,Teoria conspiratória,TR,Negacionismo,,Teoria Conspiratória,Preferido
+172,Teoria conspiratória,TR,Pseudociência,,Teoria Conspiratória,Preferido
+173,Transparência algorítmica,TG,Governança digital,Abertura sobre funcionamento de algoritmos,Governança,Preferido
+174,Transparência algorítmica,TR,Regulação de plataformas,,Governança,Preferido
+175,Transparência algorítmica,TR,Explicabilidade,,Governança,Preferido
+176,Transtorno informacional,TG,Ecossistema informacional,Termo guarda-chuva para problemas informacionais,Ecossistema,Preferido
+177,Transtorno informacional,TE,Desinformação,,Ecossistema,Preferido
+178,Transtorno informacional,TE,Misinformação,,Ecossistema,Preferido
+179,Transtorno informacional,TE,Mal-informação,,Ecossistema,Preferido
+180,Trolling,TG,Comportamento disruptivo,Comportamento deliberadamente provocativo online,Comportamento,Preferido
+181,Trolling,TR,Sockpuppet,,Comportamento,Preferido
+182,Trolling,TR,Assédio digital,,Comportamento,Preferido
+183,Vazamento,TG,Mal-informação,Divulgação não autorizada de informação privada,Mal-informação,Preferido
+184,Vazamento,TE,Vazamento seletivo,,Mal-informação,Preferido
+185,Vazamento,TE,Doxing,,Mal-informação,Preferido
+186,Vazamento,TR,Privacidade,,Mal-informação,Preferido
+187,Verificação de fatos,UP,Fact-checking,Processo de confirmar veracidade de informações,Combate,Preferido
+188,Verificação de fatos,TG,Combate à desinformação,,Combate,Preferido
+189,Verificação de fatos,TE,Verificação em tempo real,,Combate,Preferido
+190,Verificação de fatos,TE,Verificação colaborativa,,Combate,Preferido
+191,Verificação de fatos,TR,Jornalismo,,Combate,Preferido
+192,Verificação de fatos,TR,Literacia midiática,,Combate,Preferido
+193,Viés algorítmico,TG,Algoritmo de recomendação,Tendência sistemática em resultados algorítmicos,Tecnologia,Preferido
+194,Viés algorítmico,TR,Discriminação algorítmica,,Tecnologia,Preferido
+195,Viés cognitivo,UP,Distorção cognitiva,Padrões sistemáticos de desvio da racionalidade,Psicologia,Preferido
+196,Viés cognitivo,TG,Psicologia da desinformação,,Psicologia,Preferido
+197,Viés cognitivo,TE,Viés de confirmação,,Psicologia,Preferido
+198,Viés cognitivo,TE,Efeito Dunning-Kruger,,Psicologia,Preferido
+199,Viés cognitivo,TR,Pensamento crítico,,Psicologia,Preferido
+200,Viés de confirmação,TG,Viés cognitivo,Tendência de buscar informações que confirmam crenças preexistentes,Psicologia,Preferido
+201,Viés de confirmação,TR,Câmara de eco,,Psicologia,Preferido
+202,Viralização,TG,Dinâmica de disseminação,Propagação rápida e ampla de conteúdo online,Disseminação,Preferido
+203,Viralização,TR,Amplificação algorítmica,,Disseminação,Preferido
+204,Viralização,TR,Engajamento,,Disseminação,Preferido
+205,Whataboutism,TG,Falácia lógica,Técnica retórica de desviar críticas apontando hipocrisia,Retórica,Preferido
+206,Whataboutism,TR,Desvio de atenção,,Retórica,Preferido
+207,Ataques às instituições democráticas,TG,Crimes contra o Estado Democrático,Ações que visam desestabilizar instituições democráticas,Jurídico,Preferido
+208,Ataques às instituições democráticas,TR,Desinformação política,,Jurídico,Preferido
+209,Ataques às instituições democráticas,TR,Incitação à violência,,Jurídico,Preferido
+210,Crime contra a honra,TG,Direito Penal,Delitos que afetam a honra através de informações falsas,Jurídico,Preferido
+211,Crime contra a honra,TE,Calúnia,,Jurídico,Preferido
+212,Crime contra a honra,TE,Difamação,,Jurídico,Preferido
+213,Crime contra a honra,TE,Injúria,,Jurídico,Preferido
+214,Crime contra a honra,TR,Fake news,,Jurídico,Preferido
+215,Democracia digital,TG,Governança democrática,Uso de tecnologias digitais em processos democráticos,Jurídico,Preferido
+216,Democracia digital,TR,Participação cidadã,,Jurídico,Preferido
+217,Democracia digital,TR,Transparência,,Jurídico,Preferido
+218,Direito à informação,TG,Direitos fundamentais,Direito constitucional de receber informações verdadeiras,Jurídico,Preferido
+219,Direito à informação,TR,Liberdade de expressão,,Jurídico,Preferido
+220,Direito à informação,TR,Acesso à informação,,Jurídico,Preferido
+221,Incitação à violência,TG,Crimes contra a paz pública,Comunicação que estimula atos violentos,Jurídico,Preferido
+222,Incitação à violência,TR,Discurso de ódio,,Jurídico,Preferido
+223,Incitação à violência,TR,Radicalização,,Jurídico,Preferido
+224,Liberdade de expressão,TG,Direitos fundamentais,Direito de expressar opiniões sem censura prévia,Jurídico,Preferido
+225,Liberdade de expressão,TR,Censura,,Jurídico,Preferido
+226,Liberdade de expressão,TR,Moderação de conteúdo,,Jurídico,Preferido
+227,Marco Civil da Internet,TG,Legislação brasileira,Lei 12.965/2014 que estabelece princípios para uso da internet,Jurídico,Preferido
+228,Marco Civil da Internet,TR,Regulação de plataformas,,Jurídico,Preferido
+229,Marco Civil da Internet,TR,Privacidade digital,,Jurídico,Preferido
+230,Ordem constitucional,TG,Direito Constitucional,Sistema de normas fundamentais do Estado,Jurídico,Preferido
+231,Ordem constitucional,TR,Estado Democrático de Direito,,Jurídico,Preferido
+232,Ordem constitucional,TR,Segurança jurídica,,Jurídico,Preferido
+233,Responsabilidade de intermediários,TG,Direito digital,Responsabilização de plataformas por conteúdo de terceiros,Jurídico,Preferido
+234,Responsabilidade de intermediários,TR,Plataformas digitais,,Jurídico,Preferido
+235,Responsabilidade de intermediários,TR,Moderação de conteúdo,,Jurídico,Preferido

@@ -1,0 +1,74 @@
+# This CITATION.cff file was generated for automated citation in GitHub
+# Visit https://citation-file-format.github.io/ for more information
+
+cff-version: 1.2.0
+type: dataset
+title: "Tesauro de Desinformação e Conteúdos Falsos Online"
+message: "Se você usar este tesauro, por favor cite-o usando estes metadados."
+authors:
+  - family-names: Uchoa
+    given-names: Cibele Alexandre
+    orcid: "https://orcid.org/0000-0001-7971-496X"
+    email: uchoa.cibelea@gmail.com
+    affiliation: "Universidade de Fortaleza"
+    
+keywords:
+  - desinformação
+  - fake news
+  - vocabulário controlado
+  - tesauro
+  - jurimetria
+  - manipulação informacional
+  - ISO 25964-1:2011
+  - ciência da informação
+  
+abstract: |
+  Tesauro especializado em desinformação e conteúdos falsos online, 
+  desenvolvido para pesquisa científica de alto nível em jurimetria e 
+  ciências da informação. Este vocabulário controlado segue rigorosamente 
+  o padrão ISO 25964-1:2011 para construção de tesauros, contendo mais de 
+  235 descritores especializados com relações hierárquicas, associativas e 
+  de equivalência, além de notas de escopo detalhadas e seção específica 
+  de terminologia jurídica brasileira. Desenvolvido durante pesquisa doutoral 
+  na Universidade de Fortaleza com apoio da FUNCAP.
+  
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: "2025-11-11"
+repository-code: "https://github.com/uchoacibele/tesauro_desinformacao"
+url: "https://github.com/uchoacibele/tesauro_desinformacao"
+# doi: "10.5281/zenodo.XXXXXX"  # Adicionar DOI quando disponível
+
+references:
+  - type: standard
+    title: "ISO 25964-1:2011 Information and documentation - Thesauri and interoperability with other vocabularies"
+    year: 2011
+    publisher:
+      name: "International Organization for Standardization"
+    
+  - type: report
+    authors:
+      - family-names: Wardle
+        given-names: Claire
+      - family-names: Derakhshan
+        given-names: Hossein
+    title: "Information Disorder: Toward an interdisciplinary framework for research and policy making"
+    year: 2017
+    publisher:
+      name: "Council of Europe"
+      
+  - type: article
+    authors:
+      - family-names: "Tandoc Jr"
+        given-names: "Edson C."
+      - family-names: Lim
+        given-names: "Zheng Wei"
+      - family-names: Ling
+        given-names: Richard
+    title: "Defining 'fake news': A typology of scholarly definitions"
+    journal: "Digital Journalism"
+    volume: 6
+    issue: 2
+    pages: "137-153"
+    year: 2018
+    doi: "10.1080/21670811.2017.1360143"
